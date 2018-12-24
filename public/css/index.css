@@ -1,0 +1,27 @@
+* {
+    background-color:#e0e0e0;
+}
+
+
+
+ul {
+    list-style-type:none;
+}
+
+li a {
+    background-color:#4286f4;
+    list-style-type:none;
+    text-decoration:none;
+    display:block;
+    padding:20px;
+    margin-right:90%;
+    margin-top:2px;
+    border-radius:25px;
+    text-align:center;
+}
+li a:hover {
+    background-color:#4f8cef;
+}
+.permission-table tr, th, td {
+    display:block;
+}
